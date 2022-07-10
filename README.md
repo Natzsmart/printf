@@ -32,6 +32,9 @@
 * Input: ```printf("Unsigned octal:[%o]", 6);```
 * Output:  ```Unsigned octal:[6] => 18```
 
+Authors: Adelakun Kehinde
+         iniobong Effiong
+
 
 
 ## Project Requirements
